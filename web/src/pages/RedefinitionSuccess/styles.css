@@ -1,0 +1,35 @@
+.redefinitionContainer {
+    width: 100vw;
+    height: 100vh;
+    background-color: #8257E5;
+}
+
+.redefinitionContainer p {
+    margin-top: 20vh;
+    color: white;
+    margin-left: 30vw;
+}
+
+.redefinitionContainer p:nth-child(2) {
+    font-size: 3em;
+    font-family: Archivo;
+}
+
+.redefinitionContainer p:nth-child(3) {
+    margin-top: 5vh;
+    font-size: 1.2em;
+    font-family: Archivo;
+}
+
+.redefinitionContainer button {
+    width: 15vw;
+    margin-left: 40vw;
+    margin-top: 20vh;
+}
+
+#successIcon {
+    margin-top: 5vh;
+    margin-left: 40vw;
+    width: 5vw;
+    height: 10vh;
+}
